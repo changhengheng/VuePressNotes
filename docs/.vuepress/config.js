@@ -23,6 +23,7 @@ module.exports = {
             ['/getting-started/7.主题','主题'],
             ['/using-a-plugin/','插件介绍'],
             ['/using-a-plugin/1.使用插件','使用插件'],
+            ['/using-vue/','使用组件'],
         ],
     },
 }
