@@ -24,6 +24,8 @@ module.exports = {
             ['/using-a-plugin/','插件介绍'],
             ['/using-a-plugin/1.使用插件','使用插件'],
             ['/using-vue/','使用组件'],
+            ['/themeConfig/侧边栏链接重命名','侧边栏链接重命名'],
+            ['/themeConfig/跳转至指定的侧边栏','跳转至指定的侧边栏'],
         ],
     },
 }
