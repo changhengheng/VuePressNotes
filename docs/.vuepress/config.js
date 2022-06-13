@@ -1,16 +1,16 @@
 module.exports = {
     title: 'VuePressNotes', // 设置网站标题
     dest: './dist',  // 设置输出目录
-    base: '/vuepressNotes/',// 设置站点根路径
+    base: '/VuePressNotes/',// 设置站点根路径
     repo:
-        'https://github.com/changhengheng/vuepressNotes.git', // 添加 github 链接
+        'https://github.com/changhengheng/VuePressNotes.git', // 添加 github 链接
     themeConfig:{
         lastUpdated: '上次更新',
         smoothScroll: true,
         nav: [
             {
               text: 'VuePressNotes',
-              link: 'https://github.com/changhengheng/vuepressNotes',
+              link: 'https://github.com/changhengheng/VuePressNotes',
             },
           ],
         sidebar: [
